@@ -39,6 +39,10 @@ public class MyTestClass {
 
     //    moveFileToOtherDirectory(renameFile(source), destination);
         System.out.println("Hello friend");
+        System.out.println("Perfect");
+        System.out.println("Dobie");
+
+
 
     }
 }
