@@ -4,6 +4,7 @@ public class TesterGitClass {
 
         System.out.println("Printing Only");
         System.out.println("Checking Only");
+        System.out.println("Sure thing");
 
     }
 }
